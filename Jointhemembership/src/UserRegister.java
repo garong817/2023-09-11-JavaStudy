@@ -102,7 +102,7 @@ public class UserRegister {
 		                 
 		                 if(register_again.equalsIgnoreCase("y"));
 		                 {
-		                 else if (register_again.equalsIgnoreCase("n"));
+		                 else if (register_again.equalsIgnoreCase("n"));  // Q. else if 부분 오류 나는 이유 찾기
 		                 {
 		                	 System.exit(0);	 
 		                 }
